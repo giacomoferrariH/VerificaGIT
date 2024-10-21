@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("VerificaGIT_FerrariGiacomo4H")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+24bfefbd97673e63970410b46bcf11ea7754e497")]
 [assembly: System.Reflection.AssemblyProductAttribute("VerificaGIT_FerrariGiacomo4H")]
 [assembly: System.Reflection.AssemblyTitleAttribute("VerificaGIT_FerrariGiacomo4H")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,4 @@
+C:\Users\giacomo.ferrari\Documents\VerificaGIT_FerrariGiacomo4H\VerificaGIT_FerrariGiacomo4H\obj\Debug\net8.0\VerificaGIT_FerrariGiacomo4H.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giacomo.ferrari\Documents\VerificaGIT_FerrariGiacomo4H\VerificaGIT_FerrariGiacomo4H\obj\Debug\net8.0\VerificaGIT_FerrariGiacomo4H.AssemblyInfoInputs.cache
+C:\Users\giacomo.ferrari\Documents\VerificaGIT_FerrariGiacomo4H\VerificaGIT_FerrariGiacomo4H\obj\Debug\net8.0\VerificaGIT_FerrariGiacomo4H.AssemblyInfo.cs
+C:\Users\giacomo.ferrari\Documents\VerificaGIT_FerrariGiacomo4H\VerificaGIT_FerrariGiacomo4H\obj\Debug\net8.0\VerificaGIT_FerrariGiacomo4H.csproj.CoreCompileInputs.cache
